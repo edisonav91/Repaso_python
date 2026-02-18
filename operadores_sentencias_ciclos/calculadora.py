@@ -12,7 +12,7 @@ while not salir:
 
     opcion = int(input('Escoge una opcion...'))
     resultado = 0
-
+    
     numero_1 = int(input('Ingrese su primer numero: '))
     numero_2 = int(input('Ingrese su segundo numero: '))
 
